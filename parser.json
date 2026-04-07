@@ -1,7 +1,7 @@
 {
-  "lang": "htmldjango",
   "semver": false,
   "parser_version": "3a643167ad9afac5d61e092f08ff5b054576fadf",
+  "lang": "htmldjango",
   "location": null,
   "url": "https://github.com/interdependence/tree-sitter-htmldjango"
 }
